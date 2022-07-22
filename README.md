@@ -9,6 +9,7 @@ If you don't know, let's go with me
 ## First Source code
 * html ⏩
 ````html
+<link rel="stylesheet" href="css/style.css">
 <body>
     <a>Hello World</a>
 </body>
