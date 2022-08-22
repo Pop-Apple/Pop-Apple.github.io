@@ -3,7 +3,7 @@ function Connect2Github() {
 }
 
 function Connect2MoreFriend() {
-    window.location.href = 'Pop-Apple.github.io-main/Friendly/'
+    window.location.href = 'https://pop-apple.github.io/Friendly/'
     }
 
 function Connect2Twitter() {
