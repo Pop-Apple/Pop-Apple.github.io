@@ -1,5 +1,5 @@
 /*
-* Javascript Button Evento
+* Javascript Button Event
 */
 function Menu() {
     window.location.href = 'https://pop-apple.github.io/'
