@@ -1,7 +1,9 @@
-## Pop-Apple.github.io
-Pop-Apple demo site for checking html and css  
-If you don't know, let's go with me
-[here](https://pop-apple.github.io)
+## Pop-Apple.github.
+Pop-Apple's information site utilizing Github pages  
+There is still room for improvement  
+You can jump to the site from [here](https://pop-apple.github.io)
+HTML CSS Javascript is used  
+It is open source, so feel free to use the code if you want :)
 ## Screenshots
 
 * Unknown
