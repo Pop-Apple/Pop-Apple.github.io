@@ -25,13 +25,5 @@ a {
 ````
 
 ## License
-* Visual Studio Code
-* Visual Stdio Code Plugins
-  * Live Server | Ritwick Dey
-* [Sakura Editor](https://sakura-editor.github.io/)
 
-## Badges
-<p align="left">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</p>
+Released under [MIT](https://github.com/Pop-Apple/Pop-Apple.github.io/blob/master/LICENSE) License
