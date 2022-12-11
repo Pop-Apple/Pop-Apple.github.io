@@ -26,4 +26,4 @@ a {
 
 ## License
 
-Released under [MIT](https://github.com/Pop-Apple/Pop-Apple.github.io/blob/master/LICENSE) License
+Released under [Apache-2.0](https://github.com/Pop-Apple/Pop-Apple.github.io/blob/master/LICENSE) License
