@@ -21,6 +21,12 @@ function Twitter() {
 function Alert() {
 
     var Message = 'Not Found 404 Error'
-    alert(Message)
+    
+    const InstagramURL = 'instagram.com/sakamochan123/'
+    window.open(InstagramURL, '_blank')
+    
+    console.log('Successfully')
+    
+    //alert(Message)
 
 }
