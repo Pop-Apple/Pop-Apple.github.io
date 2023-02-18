@@ -215,32 +215,3 @@ img:active {
   margin-right: 200px;
   margin-left: 200px;
 }
-
-/******************************************************/
-
-/*Project*/
-
-.ProjectTitle {
-  margin-top: 170px;
-  margin-right: 270px;
-}
-.ProjectTitle {
-  /*margin-right: 280px;*/
-  font-size: 25px;
-}
-.Project p {
-  margin-top: 10px;
-}
-.Project img {
-
-  -webkit-touch-callout:none;
-    -webkit-user-select:none;
-    -moz-touch-callout:none;
-    -moz-user-select:none;
-    user-select:none;
-
-  border-radius:5px;
-  border-color: rgb(103, 103, 103);
-  border: solid rgb(103, 103, 103);
-  border: 3px solid;
-}
