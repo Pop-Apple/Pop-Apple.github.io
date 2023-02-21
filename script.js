@@ -9,14 +9,14 @@ function Github() {
 
 function Twitter() {
 
-    const TwitterURL = 'https://twitter.com/4pple_kun'
+    const TwitterURL = 'https://twitter.com/Sakamochan123'
     window.open(TwitterURL, '_blank')
 
     console.log('Successfully')
 
 }
 
-function Alert() {
+function Instagram() {
 
     var Message = 'Not Found 404 Error'
     
