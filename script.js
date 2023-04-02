@@ -9,10 +9,10 @@ function Github() {
 
 function Twitter() {
 
-    const TwitterURL = 'https://twitter.com/Sakamochan123'
+    const TwitterURL = ''
     window.open(TwitterURL, '_blank')
 
-    console.log('Successfully')
+    console.log('Error')
 
 }
 
@@ -20,10 +20,10 @@ function Instagram() {
 
     var Message = 'Not Found 404 Error'
     
-    const InstagramURL = 'https://instagram.com/sakamochan123/'
+    const InstagramURL = ''
     window.open(InstagramURL, '_blank')
     
-    console.log('Successfully')
+    console.log('Error')
     
     //alert(Message)
 
