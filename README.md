@@ -1,29 +1,32 @@
-## Pop-Apple.github.
-Pop-Apple's information site utilizing Github pages  
-There is still room for improvement  
-You can jump to the site from [here](https://pop-apple.github.io)
-HTML CSS Javascript is used  
-It is open source, so feel free to use the code if you want :)
-## Screenshots
+## Portfolio
 
-* Unknown
+This is my portfolio site.  
+I created this site to learn HTML, CSS, and Javascript as well!  
+You can actually see various things on the site.  
+I program and make software as a hobby.  
+I'm a wimp, so I don't accept projects by mistake.  
 
-## First Source code
-* html
-````html
-<link rel="stylesheet" href="css/style.css">
-<body>
-    <a>Hello World</a>
-</body>
-````
-* css
-````css
-@charset "utf-8";
-a {
-    color:blue;
-}
-````
+## Clone
+
+```
+git clone https://github.com/Pop-Apple/Pop-Apple.github.io.git
+```
+
+### Movement
+
+> Unknown
+
+## Skills
+
+* HTML
+* CSS
+* Javascript
 
 ## License
 
-Released under [Apache-2.0](https://github.com/Pop-Apple/Pop-Apple.github.io/blob/master/LICENSE) License
+Original release under [Apache-2.0](https://github.com/Pop-Apple/Pop-Apple.github.io/blob/master/LICENSE) License  
+Please check the license
+
+### Pullrequest
+
+[Sakamochanq](https://github.com/Sakamochanq)
